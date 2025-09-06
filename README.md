@@ -1,7 +1,7 @@
 <h1 align='center'> Movitor </h1>
 
 
-[Moviator](https://Moviator.vercel.app/) is a real-time, full-body, webcam motion tracking avatar web application. Use your body gestures and facial expressions to animate a virtual persona. Personalize your experience through the built-in avatar creator.
+[Moviator](https://akash-movitor.vercel.app/) is a real-time, full-body, webcam motion tracking avatar web application. Use your body gestures and facial expressions to animate a virtual persona. Personalize your experience through the built-in avatar creator.
 
 ## Tech Stack
 - [Ready Player Me](https://readyplayer.me/) - avatar and avatar creator
